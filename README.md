@@ -1,12 +1,16 @@
 # MEAN Stack Development
 
-Folder | Description
-myNewApp | A sample Express application created after installing Node.js.
+| Folder    | Description    |
+|-|-|
+|myNewApp    | A sample Express application created after installing Node.js.   |
+
 
 ## Useful Commands
 
-Command | Description
-node --version and npm --version | Commands used to verify the installation. These will show the corresponding version number if setup is correct.
+
+Command     | Description   |
+|-|-|
+node --version and npm --version | Commands used to verify the installation. These will show the corresponding version number if setup is correct. |
 mkdir <foldername>| Creates a new folder called <foldername>
 cd <foldername> | Navigates to the specified folder 
 npm init | Call this command from the command prompt while in your application folder to open the step-by-step wizard to initialize a Node application.
